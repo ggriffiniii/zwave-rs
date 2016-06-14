@@ -1,0 +1,7 @@
+[package]
+name = "zwave"
+version = "0.1.0"
+authors = ["griffiniii"]
+
+[dependencies]
+serial = "0.3.4"
